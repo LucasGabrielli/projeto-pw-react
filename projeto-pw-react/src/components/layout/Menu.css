@@ -22,10 +22,10 @@
     padding: 10px;
     margin-bottom: 10px;
     text-decoration: none;
-    color: #a8dadc;
+    color: #0702ff;
     font-size: 1.5rem;
 }
 
 .Menu li a:hover {
-    background-color: #386480;
+    background-color: #00fff2;
 }
